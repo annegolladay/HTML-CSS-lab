@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    background-color: lightgray;
+    width: 100%;
+}
+.top {
+    height: 20vh;
+    background-color: #404040;
+}
+
+.middle-section {
+    background-color: #F0F0F0;
+    width: 80vw;
+    height: 65vh;
+    margin: 0 auto;
+}
+
+.bottom {
+    width: 80vw;
+    height: 15vh;
+    background-color: #404040;
+    bottom: 0;
+    margin: 0 auto;
+}
