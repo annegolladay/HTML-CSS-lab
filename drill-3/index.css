@@ -1,0 +1,57 @@
+* {
+    width: 100%;
+    margin: 0;
+}
+
+/* Header Section */
+
+header {
+    background-color: grey;
+    height: 15vh;
+    padding: 10px;
+}
+
+.top-box {
+    height: 80px;
+    width: 80px;
+    box-sizing: border-box;
+    background-color: blue;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Text Section */
+
+.text-content {
+    width: 85%;
+    padding: 30px;
+}
+
+.text-content p {
+    width: 100%;
+    font-size: 20px;
+    padding: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Colors Section */
+
+.box {
+    height: 15vh;
+}
+
+.blue {
+    background-color: royalblue;
+}
+
+.green {
+    background-color: turquoise;
+}
+
+.green-two {
+    background-color: yellowgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
